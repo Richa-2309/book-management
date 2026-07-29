@@ -1,13 +1,6 @@
 const express=require('express');
 const server =express();
 
-
-// server.get("/",(req,res,next)=>{
-//    console.log("This is the first midileware");
-//    next()
-
-// })
-//global midilware
 function globalmidilware(req,res,next){
     console.log("this is global midilware");
     next()
