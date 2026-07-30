@@ -1,5 +1,6 @@
 const express=require('express');
 const server =express();
+// this is my controller functiom
 
 function globalmidilware(req,res,next){
     console.log("this is global midilware");
