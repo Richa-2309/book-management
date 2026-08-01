@@ -1,1 +1,1 @@
-wrinting the text in file
+writing the text in file to and try to write code  to read this file by nodejs
