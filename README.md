@@ -1,6 +1,6 @@
 creating book management System using Nodejs.
 
-# 📚 Book Store E-Commerce
+#  Book Store E-Commerce
 
 A simple **Book Store E-Commerce Backend** built with **Node.js**, **Express.js**, and **MongoDB**. This project provides REST APIs for managing books, users, shopping carts, and orders.
 
@@ -31,9 +31,8 @@ npm start
 ## 📌 API Modules
 
 * Authentication
-* Books
-* Cart
-* Orders
+*************
+*************
 
 ## 👩‍💻 Author
 
