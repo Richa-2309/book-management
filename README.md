@@ -28,17 +28,9 @@ npm install
 npm start
 ```
 
-## 📌 API Modules
-
-* Authentication
-*************
-*************
-* Authentication
-*************
-*************
 
 
 ## 👩‍💻 Author
+Richa
 
-**Richa Kumari**
 
