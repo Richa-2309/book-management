@@ -21,7 +21,7 @@ function Secondmidilware(req,res,next){
 }
 //miderware as function
 function thirdmidilware(req,res,next){
-    console.log("this is the first midilware")
+    console.log("this is the third midilware")
     next()
 }
 server.get("/",(req,res)=>{
