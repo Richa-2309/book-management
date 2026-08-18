@@ -19,6 +19,11 @@ function Secondmidilware(req,res,next){
     console.log("this is the second midilware")
     next()
 }
+//miderware as function
+function thirdmidilware(req,res,next){
+    console.log("this is the first midilware")
+    next()
+}
 server.get("/",(req,res)=>{
     res.send("this is root server and it is working");
 })
