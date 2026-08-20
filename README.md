@@ -12,6 +12,8 @@ A simple **Book Store E-Commerce Backend** built with **Node.js**, **Express.js*
 * Order Management
 * MongoDB Integration
 * RESTful APIs
+* Email Login & Signup
+* Forget Password
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +22,9 @@ A simple **Book Store E-Commerce Backend** built with **Node.js**, **Express.js*
 * MongoDB
 * Mongoose
 * JWT Authentication
+* authentiction
+* Prisma
+  
 
 ## ▶️ Run the Project
 
