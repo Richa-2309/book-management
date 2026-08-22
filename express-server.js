@@ -33,6 +33,9 @@ server.post("/",(req,res)=>{
 server.put("/",(req,res)=>{
     res.send("this is root server for put request and it is working");
 })
+server.delete("/",(req,res)=>{
+    res.send("this is root server for delete request and it is working");
+})
 
 server.get("/send",firstmidilware, Secondmidilware,(req,res)=>{
     res.send("send route server is working fine as expected");
