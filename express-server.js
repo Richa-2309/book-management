@@ -27,6 +27,12 @@ function thirdmidilware(req,res,next){
 server.get("/",(req,res)=>{
     res.send("this is root server and it is working");
 })
+server.post("/",(req,res)=>{
+    res.send("this is root server for post request and it is working");
+})
+server.put("/",(req,res)=>{
+    res.send("this is root server for put request and it is working");
+})
 
 server.get("/send",firstmidilware, Secondmidilware,(req,res)=>{
     res.send("send route server is working fine as expected");
