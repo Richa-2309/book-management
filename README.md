@@ -17,10 +17,7 @@ A simple **Book Store E-Commerce Backend** built with **Node.js**, **Express.js*
 * Express.js
 * MongoDB
 
-
-
-
 ## 👩‍💻 Author
 Richa
 
-
+Thanks 
