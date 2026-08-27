@@ -10,6 +10,12 @@ A simple **Book Store E-Commerce Backend** built with **Node.js**, **Express.js*
 * Book Management (CRUD)
 * Shopping Cart
 * Order Management
+* ## 🚀 Features
+
+* User Authentication
+* Book Management (CRUD)
+* Shopping Cart
+* Order Management
 
 ## 🛠️ Tech Stack
 
