@@ -10,3 +10,11 @@ Advantages of plain text -
 if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
 It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
 file size of plain text format is less as compared to rich text format.
+
+if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
+It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
+file size of plain text format is less as compared to rich text format.
+
+if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
+It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
+file size of plain text format is less as compared to rich text format.
