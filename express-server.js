@@ -39,6 +39,9 @@ server.delete("/",(req,res)=>{
 server.get("/send",firstmidilware, Secondmidilware,(req,res)=>{
     res.send("send route server is working fine as expected");
 })
+server.get("/send2",firstmidilware, Secondmidilware,(req,res)=>{
+    res.send("send route server is working fine as expected");
+})
 
 
 server.listen(8080,()=>{
