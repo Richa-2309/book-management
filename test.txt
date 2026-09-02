@@ -18,3 +18,13 @@ file size of plain text format is less as compared to rich text format.
 if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
 It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
 file size of plain text format is less as compared to rich text format.
+
+//ignore
+1. PLAIN TEXT :
+Plain text is a text with no styles attached or embedded with it. It is just a plain text i.e. simple text. It was created by American Hardware Designers in the 60s 70s. And the files with plain text are saved with .txt or .TXT extension.
+
+Advantages of plain text -
+
+if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
+It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
+file size of plain text format is less as compared to rich text format.
