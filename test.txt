@@ -1,21 +1,76 @@
+# Node.js Notes
+
+## Hello Node.js
+
+**Welcome to Backend Development**
+
+**Bura nahi, Bhagwan hi Bhagwan hai.** 🙏
+
+---
+
+# 1. Plain Text
+
+**Plain text** is text without any styling or formatting attached to it. It contains only simple characters and does not include things like fonts, colors, images, or other formatting.
+
+Plain-text files are commonly saved with the **`.txt`** extension.
+
+### Advantages of Plain Text
+
+#### 1. Same Output on Different Systems
+
+Plain text can generally be opened on different computers and operating systems without requiring a specific application or software.
+
+For example, if you write:
+
+```text
 Hello Node.js
 Welcome to Backend Development
-Bouna hi bhagwan hai
+```
 
-1. PLAIN TEXT :
-Plain text is a text with no styles attached or embedded with it. It is just a plain text i.e. simple text. It was created by American Hardware Designers in the 60s 70s. And the files with plain text are saved with .txt or .TXT extension.
+the basic text remains the same when opened on different systems.
 
-Advantages of plain text -
+Unlike rich-text documents, plain text does not depend on formatting, fonts, or special software.
 
-if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
-It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
-file size of plain text format is less as compared to rich text format.
+#### 2. Fast and Flexible
 
-if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
-It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
-file size of plain text format is less as compared to rich text format.
+Plain-text files are simple because they contain only text and do not store additional formatting information.
 
-if you write something in plain text then whenever you open that file on any machine then the end result will be same that is it will show the text as it is on every system. Unlike rich text if you format the text and add the styles to it then it might create problem if the end person doesn't have suitable app for it then it will distort its styles as a result it will leave a bad impression on the user.
-It is fast and flexible as it doesn't uses styles and formatting therefore it is fast and flexible.
-file size of plain text format is less as compared to rich text format.
+As a result, they are:
 
+* Easy to create
+* Easy to edit
+* Fast to open
+* Easy to transfer
+* Flexible to use
+
+#### 3. Small File Size
+
+Plain-text files generally have a **small file size** because they don't contain additional formatting information such as:
+
+* Fonts
+* Colors
+* Images
+* Layout information
+* Text styles
+
+### Example
+
+A simple `.txt` file:
+
+```text
+Hello Node.js
+Welcome to Backend Development
+This is my first backend application.
+```
+
+This file contains only text, making it lightweight and easy to read.
+
+### Plain Text vs Rich Text
+
+| Plain Text             | Rich Text                       |
+| ---------------------- | ------------------------------- |
+| No formatting          | Supports formatting             |
+| Simple text only       | Fonts, colors, styles, etc.     |
+| Usually smaller        | Usually larger                  |
+| Easy to open anywhere  | May require compatible software |
+| Simple and lightweight | More visually expre             |
