@@ -156,16 +156,6 @@ DELETE /api/books/:id
 
 ---
 
-## 🧪 Testing the API
-
-You can test the APIs using:
-
-* Postman
-* Thunder Client
-* Insomnia
-* Frontend applications
-
-Make sure the server and MongoDB database are running before testing the APIs.
 
 ---
 
